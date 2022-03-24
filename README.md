@@ -14,8 +14,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/lucas-antoine-bab549174#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/lucas-antoine-bab549174#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/mail-light.svg)](mailto:lucas.antoine.contact@gmail.com#gh-light-mode-only)
-[![website](./img/mail-dark.svg)](mailto:lucas.antoine.contact@gmail.com#gh-dark-mode-only)
+[![website](./img/mail-light.svg)](mailto:lucas.antoine.contact@gmail.com#gh-dark-mode-only)
+[![website](./img/mail-dark.svg)](mailto:lucas.antoine.contact@gmail.com#gh-light-mode-only)
 
 
 ### Languages and Tools :
