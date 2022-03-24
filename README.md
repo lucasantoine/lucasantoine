@@ -1,4 +1,4 @@
-### Hi, I am Lucas - aka @lucasantoine[website] 👋
+### Hi, I am Lucas - aka [@lucasantoine][website] 👋
 
 ## I'm a software engineering and statistics student at Polytech Lille !
 
