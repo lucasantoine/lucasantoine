@@ -3,7 +3,7 @@
 ## I'm a software engineering and statistics student at Polytech Lille !
 
 - 👀 I am interested in programming, data science and sport !
-- 🌱 I am currently learning Python...
+- 🌱 I am currently learning Data Science
 - 📅 I will be an engineer in a year !
 
 ---
